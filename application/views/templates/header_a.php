@@ -21,8 +21,8 @@
 					<!-- Logos
 					============================================= -->
 					<div id="logo" class="nobottomborder">
-					<a href="<?=base_url()?>inicio" class="standard-logo" data-dark-logo="<?=base_url()?>public/images/Logo_white.svg"><img class="divcenter" src="<?=base_url()?>public/images/Logo_black.svg" alt="SmartFood Logo"></a>
-					<a href="<?=base_url()?>inicio" class="retina-logo" data-dark-logo="<?=base_url()?>public/images/Logo_white.svg"><img class="divcenter" src="<?=base_url()?>public/images/Logo_black.svg" alt="SmartFood Logo"></a>
+						<a href="<?=base_url()?>inicio" class="standard-logo" data-dark-logo="<?=base_url()?>public/images/Logo_white.svg"><img class="divcenter" src="<?=base_url()?>public/images/Logo_black.svg" alt="SmartFood Logo"></a>
+						<a href="<?=base_url()?>inicio" class="retina-logo" data-dark-logo="<?=base_url()?>public/images/Logo_white.svg"><img class="divcenter" src="<?=base_url()?>public/images/Logo_black.svg" alt="SmartFood Logo"></a>
 					</div><!-- #logo end -->
 
 					<!-- Menu principal
@@ -30,13 +30,21 @@
 					<nav id="primary-menu">
 
 						<ul>
-							<li><a href="<?=base_url()?>inicio"><div>Inicio</div></a>
+							<li><a href="<?=base_url()?>inicio/"><div>Inicio</div></a>
 							</li>
-							<li><a href="#"><div>Diagramas</div></a>
+							<li><a href="<?=base_url()?>diagramas/"><div>Diagramas</div></a>
 								<ul>
-									<li><a href="<?=base_url()?>stakeholders"><div>Stakeholders</div></a>
+									<li><a href="<?=base_url()?>diagramas/clases/"><div>Diagrama de Clases</div></a>
 									</li>
-									<li><a href="<?=base_url()?>casos_de_uso"><div>Casos de uso</div></a>
+									<li><a href="<?=base_url()?>diagramas/requerimientos/"><div>RF y RFN</div></a>
+									</li>
+									<li><a href="<?=base_url()?>diagramas/actividades/"><div>Diagrama de Actividades</div></a>
+									</li>
+									<li><a href="<?=base_url()?>diagramas/paquetes/"><div>Diagrama de Paquetes</div></a>
+									</li>
+									<li><a href="<?=base_url()?>diagramas/stakeholders/"><div>Stakeholders</div></a>
+									</li>
+									<li><a href="<?=base_url()?>diagramas/casos_de_uso/"><div>Casos de uso</div></a>
 									</li>
 								</ul>
 							</li>

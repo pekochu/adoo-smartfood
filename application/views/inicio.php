@@ -22,12 +22,28 @@
 			<div class="content-wrap">		
 				<div class="container clearfix">
 					<div class="title-block">
-						<h1>Buenos días, tardes o noches</h1>
+						<h1>¡Hola mundo!</h1>
 						<span>Aquí presentamos el registro de cambios que ha tenido la página de SmartFood</span>
 					</div>
 					<div class="col_full">
 						<ul class="list-group col_two_third">
-						<li class="list-group-item">
+							<li class="list-group-item">
+								Añadimos la página <b>"Diagrama de Clases"</b>, en la sección Diagramas.
+								<span class="badge badge-secondary float-right" style="margin-top: 3px;">22/05/2019</span>
+							</li>
+							<li class="list-group-item">
+								Añadimos la página <b>"RF y RNF"</b>, en la sección Diagramas.
+								<span class="badge badge-secondary float-right" style="margin-top: 3px;">22/05/2019</span>
+							</li>
+							<li class="list-group-item">
+								Añadimos la página <b>"Diagrama de Actividades"</b>, en la sección Diagramas.
+								<span class="badge badge-secondary float-right" style="margin-top: 3px;">06/05/2019</span>
+							</li>
+							<li class="list-group-item">
+								Añadimos la página <b>"Diagrama de Paquetes"</b>, en la sección Diagramas.
+								<span class="badge badge-secondary float-right" style="margin-top: 3px;">06/05/2019</span>
+							</li>
+							<li class="list-group-item">
 								Añadimos la página <b>"Stakeholders"</b>, en la sección Diagramas.
 								<span class="badge badge-secondary float-right" style="margin-top: 3px;">02/04/2019</span>
 							</li>
@@ -54,17 +70,9 @@
 								<div class="team-desc">
 									<div class="team-title"><h4>Aguilar Morales Marco Antonio</h4><span>Desarrollador</span></div>
 									<div class="team-content">Miembro del equipo.</div>
-									<a href="#" class="social-icon si-rounded si-small si-facebook">
-										<i class="icon-facebook"></i>
-										<i class="icon-facebook"></i>
-									</a>
-									<a href="#" class="social-icon si-rounded si-small si-twitter">
-										<i class="icon-twitter"></i>
-										<i class="icon-twitter"></i>
-									</a>
-									<a href="#" class="social-icon si-rounded si-small si-gplus">
-										<i class="icon-gplus"></i>
-										<i class="icon-gplus"></i>
+									<a href="mailto:marcoaguilarm8@gmail.com" class="social-icon si-rounded si-small si-gplus">
+										<i class="icon-gmail"></i>
+										<i class="icon-gmail"></i>
 									</a>
 								</div>
 							</div>
@@ -77,17 +85,17 @@
 								<div class="team-desc">
 									<div class="team-title"><h4>Bravo López Luis Ángel</h4><span>Desarrollador</span></div>
 									<div class="team-content">Miembro del equipo.</div>
-									<a href="#" class="social-icon si-rounded si-small si-forrst">
-										<i class="icon-forrst"></i>
-										<i class="icon-forrst"></i>
+									<a href="mailto:luisnglbrv@gmail.com" class="social-icon si-rounded si-small si-gplus">
+										<i class="icon-gmail"></i>
+										<i class="icon-gmail"></i>
 									</a>
-									<a href="#" class="social-icon si-rounded si-small si-skype">
-										<i class="icon-skype"></i>
-										<i class="icon-skype"></i>
+									<a href="https://twitter.com/pekochu98/" class="social-icon si-rounded si-small si-twitter">
+										<i class="icon-twitter"></i>
+										<i class="icon-twitter"></i>
 									</a>
-									<a href="#" class="social-icon si-rounded si-small si-flickr">
-										<i class="icon-flickr"></i>
-										<i class="icon-flickr"></i>
+									<a href="https://github.com/pekochu/" class="social-icon si-rounded si-small si-github">
+										<i class="icon-github"></i>
+										<i class="icon-github"></i>
 									</a>
 								</div>
 							</div>
@@ -96,49 +104,29 @@
 						<div class="col-lg-6 bottommargin">
 							<div class="team team-list clearfix">
 								<div class="team-image">
-									<img src="<?=base_url()?>public/images/team/2.jpg" alt="Rodriguez Lara Oscar Jair">
+									<img src="<?=base_url()?>public/images/team/8.jpg" alt="Martínez Mauricio Flor Areli">
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4>Rodriguez Lara Oscar Jair</h4><span>Desarrolladors</span></div>
+									<div class="team-title"><h4>Martínez Mauricio Flor Areli</h4><span>Desarrolladora</span></div>
 									<div class="team-content">Miembro del equipo.</div>
-									<a href="#" class="social-icon si-rounded si-small si-dribbble">
-										<i class="icon-dribbble"></i>
-										<i class="icon-dribbble"></i>
-									</a>
-									<a href="#" class="social-icon si-rounded si-small si-twitter">
-										<i class="icon-twitter"></i>
-										<i class="icon-twitter"></i>
-									</a>
-									<a href="#" class="social-icon si-rounded si-small si-github">
-										<i class="icon-github"></i>
-										<i class="icon-github"></i>
-									</a>
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-6 bottommargin">
 							<div class="team team-list clearfix">
 								<div class="team-image">
-									<img src="<?=base_url()?>public/images/team/8.jpg" alt="Martínez Mauricio Flor Areli">
+									<img src="<?=base_url()?>public/images/team/2.jpg" alt="Rodriguez Lara Oscar Jair">
 								</div>
 								<div class="team-desc">
-									<div class="team-title"><h4>Martínez Mauricio Flor Areli</h4><span>Desarrolladora</span></div>
+									<div class="team-title"><h4>Rodriguez Lara Oscar Jair</h4><span>Desarrollador</span></div>
 									<div class="team-content">Miembro del equipo.</div>
-									<a href="#" class="social-icon si-rounded si-small si-facebook">
-										<i class="icon-facebook"></i>
-										<i class="icon-facebook"></i>
-									</a>
-									<a href="#" class="social-icon si-rounded si-small si-linkedin">
-										<i class="icon-linkedin"></i>
-										<i class="icon-linkedin"></i>
-									</a>
-									<a href="#" class="social-icon si-rounded si-small si-twitter">
-										<i class="icon-twitter"></i>
-										<i class="icon-twitter"></i>
+									<a href="mailto:oscr7r10@gmail.com" class="social-icon si-rounded si-small si-gplus">
+										<i class="icon-gmail"></i>
+										<i class="icon-gmail"></i>
 									</a>
 								</div>
 							</div>
-						</div>
+						</div>						
 					</div>
 				</div>
 			</div>

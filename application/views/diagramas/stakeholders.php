@@ -2,15 +2,14 @@
 		<!-- Título de la página
 		============================================= -->
 		<section id="page-title">
-
 			<div class="container clearfix">
 				<h1>Stakeholders</h1>
 				<ol class="breadcrumb">
-					<li class="breadcrumb-item"><a href="<?=base_url()?>inicio">Inicio</a></li>
+					<li class="breadcrumb-item"><a href="<?=base_url()?>inicio/">Inicio</a></li>
+					<li class="breadcrumb-item active"><a href="<?=base_url()?>diagramas/">Diagramas</a></li>
 					<li class="breadcrumb-item active" aria-current="page">Stakeholders</li>
 				</ol>
 			</div>
-
 		</section>
 
 		<!-- Contenido
