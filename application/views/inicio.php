@@ -7,7 +7,7 @@
 					<div class="swiper-slide dark" style="background-image: url('<?=base_url()?>public/images/escom.jpg');">
 						<div class="container clearfix">
 							<div class="slider-caption slider-caption-center">
-								<h2 data-caption-animate="fadeInUp">Probando pushing y deploying desde GitHub</h2>
+								<h2 data-caption-animate="fadeInUp">xdd</h2>
 								<p class="d-none d-sm-block" data-caption-animate="fadeInUp" data-caption-delay="200">Aquí es donde pondremos información y documentación sobre nuestro proyecto de ADOO.</p>
 							</div>
 						</div>
